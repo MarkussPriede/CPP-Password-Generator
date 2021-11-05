@@ -1,2 +1,13 @@
-# Cpp-projekts
-Markusa Priedes DP2-1 C++ projekts. Plānots pabeigt līdz 2021. gada novembra beigām. Vairāk info - README.md
+# Projekta nosaukums
+
+## Apraksts
+	Drošs, vienkāršs paroļu ģenerators visām Jūsu tīmekļa vietnēm. 
+## Galvenās funkcijas
+	- Lietotājs ievada vēlamo paroles garumu un vai tiks izmantoti speciālie simboli !@#$%^&*
+	- Programma ģenerēs drošu paroli pēc lietotāja ievadītiem parametriem
+	- Lietotājam arī būs iespēja ievadīt savu paroli un noteikt, cik tā ir droša.
+## Izmantotās tehnoloģijas
+	- C++
+	- Turpinājums sekos...
+## Izmantotie avoti
+	- Tiks pievienoti strādājot praktiski
